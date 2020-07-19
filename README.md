@@ -1,7 +1,7 @@
 # RetinaNet for abnormal fever detection of cable terminal
 
 We choose ResNet-50 as the backbone and pretrained on ImageNet-1K dataset. 
-Train on a small number of infrared dataset (labeled by myself).
+Train RetinaNet on a small number of infrared dataset (labeled by myself).
 
 ## Demo
 <div align="center">
